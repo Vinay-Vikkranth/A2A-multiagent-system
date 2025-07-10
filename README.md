@@ -69,6 +69,24 @@ WEA_AGENT_URL=http://localhost:10001
 - "Suggest a healthy vegetarian meal plan for next week."
 - "How many hours should a 25-year-old sleep?"
 
+### 🖥️ Example Screenshots
+
+#### HOW TO RUN
+![HOW_TO_RUN]health_care_multiagent\assets\Screenshot 2025-07-10 104110.png()
+
+#### Gradio GUI
+![Gradio_GUI](health_care_multiagent\assets\Screenshot 2025-07-10 104201.png)
+
+#### Host-Agent to Sub-Agent
+![hostAgent_to_subAgent](health_care_multiagent\assets\Screenshot 2025-07-10 104220.png)
+
+#### Sub-Agent to Host-Agent
+![subAgent_to_hostAgent](health_care_multiagent\assets\Screenshot 2025-07-10 104242.png)
+
+#### Final Answer
+![Final_Answer](health_care_multiagent\assets\Screenshot 2025-07-10 104306.png)
+
+
 ## 📚 References
 - [Google A2A Python SDK](https://github.com/google/a2a-python)
 - [LangGraph Documentation](https://langchain-ai.github.io/langgraph/)
