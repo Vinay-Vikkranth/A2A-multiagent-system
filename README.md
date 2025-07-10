@@ -72,7 +72,7 @@ WEA_AGENT_URL=http://localhost:10001
 ### 🖥️ Example Screenshots
 
 #### HOW TO RUN
-![HOW_TO_RUN]health_care_multiagent\assets\Screenshot 2025-07-10 104110.png()
+![HOW_TO_RUN](assets/Screenshot%202025-07-10%20104110.png)
 
 #### Gradio GUI
 ![Gradio_GUI](health_care_multiagent\assets\Screenshot 2025-07-10 104201.png)
