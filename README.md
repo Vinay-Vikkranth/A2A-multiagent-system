@@ -75,16 +75,16 @@ WEA_AGENT_URL=http://localhost:10001
 ![HOW_TO_RUN](assets/Screenshot%202025-07-10%20104110.png)
 
 #### Gradio GUI
-![Gradio_GUI](health_care_multiagent\assets\Screenshot 2025-07-10 104201.png)
+![Gradio_GUI](assets/Screenshot%202025-07-10%20104201.png)
 
 #### Host-Agent to Sub-Agent
-![hostAgent_to_subAgent](health_care_multiagent\assets\Screenshot 2025-07-10 104220.png)
+![hostAgent_to_subAgent](assets/Screenshot%202025-07-10%20104220.png)
 
 #### Sub-Agent to Host-Agent
-![subAgent_to_hostAgent](health_care_multiagent\assets\Screenshot 2025-07-10 104242.png)
+![subAgent_to_hostAgent](assets/Screenshot%202025-07-10%20104242.png)
 
 #### Final Answer
-![Final_Answer](health_care_multiagent\assets\Screenshot 2025-07-10 104306.png)
+![Final_Answer](assets/Screenshot%202025-07-10%20104306.png)
 
 
 ## 📚 References
